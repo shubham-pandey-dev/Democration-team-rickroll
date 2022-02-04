@@ -1,0 +1,9 @@
+version: '3'
+services:
+  voiceToText:
+    container_name: voice_to_text
+    image: speech_recognize
+    build:
+      context: .
+    ports:
+      - "6000:6000"

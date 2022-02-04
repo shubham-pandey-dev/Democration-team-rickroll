@@ -1,0 +1,27 @@
+fileignoreconfig:
+- filename: README.md
+  checksum: 1d7dd7556f8832c125a3396a651f984d5699e7d0393dbfeacffef40149e5127f
+- filename: backend/catalog_sample.csv
+  checksum: f3fbcb16959179d65e7b9522d812690495802f1a83265710120d0ed3d89442ff
+- filename: frontend/yarn.lock
+  checksum: 158609be8c13c8f61285dd7ef1a7df88a42c7a6bc4910614558e98ccfade1dec
+- filename: frontend/src/components/PreviewCatalog.js
+  checksum: c229c3e5b88359d933a72445204734b7b9ae452d9b2e092d9d3d65dc0d240a0d
+- filename: backend/.mvn/wrapper/MavenWrapperDownloader.java
+  checksum: 04ec85fe41f7fbef2667a47b9176a039738a1ec8be18805709cd876704cc0c7c
+- filename: frontend/src/pages/Home.js
+  checksum: 8a39a41d8d49d4bd3cbbb387120e66a262f8a1a94fb63bd6c91d207b870c5653
+- filename: backend/mvnw
+  checksum: be9cc1947be883412ceb9e8176a57a1f94bfbb0d270611c3afd628666d16c6e1
+- filename: frontend/src/pages/AddProductToCatalog.js
+  checksum: 6470270632e8014e4023149e81467225d6bcc04176ac03d9ac08e612f106b7ab
+- filename: frontend/src/components/PreviewCatalog.js
+  checksum: c229c3e5b88359d933a72445204734b7b9ae452d9b2e092d9d3d65dc0d240a0d
+- filename: frontend/src/pages/AddProductToCatalog.js
+  checksum: 6470270632e8014e4023149e81467225d6bcc04176ac03d9ac08e612f106b7ab
+- filename: frontend/src/pages/Home.js
+  checksum: 8a39a41d8d49d4bd3cbbb387120e66a262f8a1a94fb63bd6c91d207b870c5653
+- filename: frontend/yarn.lock
+  checksum: 158609be8c13c8f61285dd7ef1a7df88a42c7a6bc4910614558e98ccfade1dec
+- filename: README.md
+  checksum: 1d7dd7556f8832c125a3396a651f984d5699e7d0393dbfeacffef40149e5127f

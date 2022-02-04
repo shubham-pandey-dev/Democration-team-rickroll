@@ -1,7 +1,8 @@
 # Democrathon - Team RickRoll
 
 ## Demo Video
- - [Video]()
+ - [Team Soochee Video](https://drive.google.com/file/d/1cY25cpOymtANuhM6Pp4YQY9__uX78iNf/view)
+ - [Team RickRoll Video](https://drive.google.com/file/d/1sTdBcydx9VfceMYx4ZGzyWTyuOTL5MPR/view?usp=sharing)
 
 ## Source
  - In collaboration with team Soochee for ONDC hackathon with added features.
